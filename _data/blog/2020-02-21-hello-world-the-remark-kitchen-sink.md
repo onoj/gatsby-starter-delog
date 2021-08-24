@@ -4,6 +4,6 @@ path: /hello
 date: 2020-08-19T11:12:25.364Z
 title: Hello
 metaDescription: ''
-thumbnail: ''
+thumbnail: /assets/girl-with-red-hat-Z6SXt1v5tP8-unsplash.jpg
 ---
-# h1 Heading 8-)
+# New Blog
