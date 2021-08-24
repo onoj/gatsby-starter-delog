@@ -7,3 +7,5 @@ metaDescription: ''
 thumbnail: /assets/girl-with-red-hat-Z6SXt1v5tP8-unsplash.jpg
 ---
 # New Blog
+
+![nice lake and mountains](/assets/wallhaven-28zyoy.jpg)
