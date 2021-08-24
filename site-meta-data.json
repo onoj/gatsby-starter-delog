@@ -1,9 +1,9 @@
 {
   "title": "jono.tech",
   "siteUrl": "https://jono.tech",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "description": "Scribbles and stuff",
   "home": {
-    "title": "",
+    "title": "scribbles",
     "description": ""
   }
 }
